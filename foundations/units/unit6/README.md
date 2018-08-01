@@ -4,7 +4,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://drive.google.com/open?id=1GPPbEG_idE_HoyoCqtGkQB0g6gsYJVV_GwtAt6dqY3w)|45| Define programming and compare Javascript to HTML and CSS. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1eyCvDgrWtgO0FBlRMS-3kUsPNKuewaY-Okoo4T4-8FE/edit#slide=id.g1d0118cf2a_0_406)|45| Explain what a function is and make function calls using correct syntax.|[Color Grid](https://popcode.org/?snapshot=cd76e4eb-6fee-4f70-8ef3-ff390669bc2a)|
